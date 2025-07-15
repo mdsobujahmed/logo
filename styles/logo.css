@@ -55,6 +55,7 @@ nav li a {
 }
 .banner-profile-pic{
       background: url("../styles/Hero-bg.png");
+      background-image: "../url(../images/wc-big.png)";
   background-size: cover;
   background-repeat: no-repeat;
 }
